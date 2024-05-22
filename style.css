@@ -1,0 +1,13 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0;
+    overflow: hidden;
+}
+li {
+    float: left;
+    padding-right: 15px; /* Adjust the value as needed */
+}
+li a {
+    text-decoration: none;
+}
